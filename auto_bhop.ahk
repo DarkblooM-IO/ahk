@@ -5,6 +5,8 @@
 #SingleInstance
 #Requires AutoHotkey v2.0
 
+A_HotkeyInterval := 0
+
 #SuspendExempt
 #^s::Suspend
 #^r::Reload
